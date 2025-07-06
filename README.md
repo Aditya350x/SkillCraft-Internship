@@ -10,7 +10,7 @@ This repository contains the tasks completed as part of my **Data Science Intern
 - **Organization:** SkillCraft Technology
 - **Role:** Data Science Intern
 - **Duration:** 1 month
-- - **Track:** Data Science
+- **Track:** Data Science
 - **Tools & Libraries:** Python, Pandas, Matplotlib, Seaborn, Scikit-learn, Jupyter Notebook
 
 ---
@@ -40,23 +40,6 @@ This repository contains the tasks completed as part of my **Data Science Intern
   - Model training using `DecisionTreeClassifier`
   - Evaluation using accuracy and confusion matrix
 - **Tools:** `Scikit-learn`, `Pandas`, `Seaborn`
-
----
-
-## 🛠 How to Use
-
-Clone this repository:
-
-```bash
-git clone https://github.com/your-username/skillcraft-ds-internship.git
-cd skillcraft-ds-internship
-```
-
-Open the notebooks for each task in Jupyter or Colab:
-
-- `task_01_population_visualization.ipynb`
-- `task_02_eda_titanic.ipynb`
-- `task_03_decision_tree_classifier.ipynb`
 
 ---
 
